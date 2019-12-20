@@ -6,6 +6,7 @@ class App < Sinatra::Base
 
     get '/' do
       erb :s
+    end
 
 
 end
